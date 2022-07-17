@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseExceptionLib", "BaseExceptionLib\BaseExceptionLib.csproj", "{F985E31C-B68F-4465-BBAC-C6DEF84A1273}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseExceptionLibTest", "BaseExceptionLibTest\BaseExceptionLibTest.csproj", "{7464FEEC-AA2A-44E9-B554-76C2809D47C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F7B0120-7DB8-4CFF-BC55-33B5E099775D}"
+	ProjectSection(SolutionItems) = preProject
+		GRAF.png = GRAF.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F985E31C-B68F-4465-BBAC-C6DEF84A1273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F985E31C-B68F-4465-BBAC-C6DEF84A1273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F985E31C-B68F-4465-BBAC-C6DEF84A1273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F985E31C-B68F-4465-BBAC-C6DEF84A1273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7464FEEC-AA2A-44E9-B554-76C2809D47C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7464FEEC-AA2A-44E9-B554-76C2809D47C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7464FEEC-AA2A-44E9-B554-76C2809D47C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7464FEEC-AA2A-44E9-B554-76C2809D47C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36506C6F-EC40-4B44-88D8-138CBDB55895}
+	EndGlobalSection
+EndGlobal
